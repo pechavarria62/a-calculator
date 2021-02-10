@@ -1,0 +1,54 @@
+#zero{
+    padding-right: 5rem;
+    border-radius: 15%;
+    margin-right: 5px;
+}
+#one, #two, #three, #add, #equals {
+    padding-right: 1.2rem;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+#four, #five, #six, #subtract, #decimal {
+    padding-right: 1.2rem;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+#seven, #eight, #nine, #multiply {
+    padding-right: 1.2rem;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+#clear, #percent, #divide{
+    padding-right: 1rem;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+#plus-negative{
+    font-size: 15px;
+    padding-right: 1rem;
+    border-radius: 55%;
+    margin-right: 5px;
+}
+#display{
+    color: aliceblue;
+    text-align: right;
+    margin-bottom: 10px;
+}
+#block{
+    
+    height: 350px;
+    width: 230px;
+    background-color: #000;
+    margin-top: 10px;
+    margin-bottom: 150px;
+    margin-right: 150px;
+    margin-left: 530px;
+}
+.row{
+    padding-bottom: 4px;
+    padding-top: 3px;
+    margin-left: 5px;
+    min-width: 5px;
+    text-align: center;
+}
+
